@@ -64,7 +64,7 @@ function CodeWikiDashboard() {
             Activity Overview
           </h3>
 
-          <p className="text-sm text-gray-300">
+          <p className="text-sm text-gray-300 mt-3">
             Cross-repository performance and health metrics.
           </p>
         </div>
@@ -111,7 +111,7 @@ function CodeWikiDashboard() {
       </section>
 
     
-      <div className="flex justify-between mb-5">
+      <div className="flex justify-between mb-1">
         <h3 className="font-bold text-blue-200">
           Recently Analyzed
         </h3>
