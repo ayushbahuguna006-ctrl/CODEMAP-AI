@@ -13,7 +13,7 @@ import {
 export default function DashboardLayout({ children }) {
   return (
     <div className="min-h-screen bg-[#111827] text-white p-3">
-      <div className="min-h-[95vh] border border-blue-400/40 rounded-lg bg-[#07101f] flex flex-col md:flex-row overflow-hidden">
+      <div className="min-h-[95vh] border border-blue-400/40 rounded-lg bg-[#07101f] flex flex-col  md:flex-row overflow-hidden">
 
         <aside className="w-full md:w-[240px] bg-[#111a2d] p-5 flex md:flex-col justify-between">
           <div>
